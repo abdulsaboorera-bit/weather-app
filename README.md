@@ -4,7 +4,7 @@ A simple and responsive weather application built using **HTML, CSS, and JavaScr
 It fetches real-time weather data using the **OpenWeatherMap API**.
 
 ## 🔗 Live Demo
-👉 https://YOUR_GITHUB_USERNAME.github.io/weather-app/
+👉 https://abdulsaboor.github.io/weather-app/
 
 ## 🚀 Features
 - Search weather by city name
